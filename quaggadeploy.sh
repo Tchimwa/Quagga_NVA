@@ -15,7 +15,8 @@ bgp_routerId=10.1.2.10
 bgp_network1=10.100.1.0/24
 bgp_network2=10.100.2.0/24
 bgp_network3=10.100.3.0/24
-routeserver_IP1=10.1.1.4
+# Azure Route Server Instances IPs
+routeserver_IP1=10.1.1.4 
 routeserver_IP2=10.1.1.5
 
 
